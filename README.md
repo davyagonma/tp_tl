@@ -1,8 +1,3 @@
-Parfait Davy 🔥 Voici un **README bilingue (🇬🇧 English / 🇫🇷 Français)** complet, structuré, clair et professionnel pour documenter ton projet Streamlit sur les **machines de Turing multitêtes, multi-rubans, déterministes et non-déterministes** (Exercices 7 à 10).
-
----
-
-## 📄 `README.md`
 
 ````markdown
 # 🧠 Turing Machine Simulator – Multi-tape, Nondeterministic & Arithmetic MT
