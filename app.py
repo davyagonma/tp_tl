@@ -57,7 +57,7 @@ with st.sidebar:
         st.session_state.current_page = "home"
     
     st.markdown("**Exercices :**")
-    for i in range(6, 11):
+    for i in range(6, 10):
         if st.button(f"Exercice {i}", key=f"exo{i}", use_container_width=True, 
                     type="primary" if st.session_state.get("current_page") == f"exo{i}" else "secondary"):
             st.session_state.current_page = f"exo{i}"
